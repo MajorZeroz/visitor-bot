@@ -30,7 +30,7 @@ echo "  \n";
 echo " \nbut only incress 500 views at one time  \n";
 echo " ~~~~~~ AUTO VISITOR BLOG 2020 ~~~~~\n  ";
 echo "\n";
-echo ' Your website URL past here: ';
+echo ' https://www.joodeskan.sa/?utm_source=X&utm_medium=Social&utm_campaign=main-video&utm_content=main-video ';
 $url = trim(fgets(STDIN));
 echo ' No. of visitor you want min (500): ';
 $max = trim(fgets(STDIN));
